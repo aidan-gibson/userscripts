@@ -7,8 +7,8 @@
 // @match        *://*/*wiki*
 // @grant        none
 // @namespace    https://github.com/aidan-gibson/
-// @downloadURL https://github.com/aidan-gibson/userscripts/mw-headings.user.js
-// @updateURL https://github.com/aidan-gibson/userscripts/mw-headings.user.js
+// @downloadURL https://github.com/aidan-gibson/userscripts/raw/main/mw-headings.user.js
+// @updateURL https://github.com/aidan-gibson/userscripts/raw/main/mw-headings.user.js
 // ==/UserScript==
 
 (function() {
